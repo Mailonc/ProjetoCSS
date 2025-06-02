@@ -12,14 +12,12 @@ body{
     border-top: 1px solid transparent;
 } 
 .content-section01 div{
+ background-position: center center;
 
-display: inline-block; 
-width: 150px; 
-text-align: center; 
-padding: 10% ;
 
 
 }
+
 .hero nav ul{
  text-align: right;
  margin: 20px 50px 0 0;
@@ -55,6 +53,7 @@ padding: 10% ;
     text-transform: uppercase;
     font-size: 50px;
     text-shadow: 3px 3px 2px black;
+    
 
 } 
 .content-section h2 {
